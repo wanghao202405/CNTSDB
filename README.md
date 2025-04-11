@@ -40,7 +40,7 @@
 ## 六、数据集标注信息
 ![image](https://github.com/user-attachments/assets/ce526379-18da-48b9-895c-0fdf9ef20ef2)
 
-##详细数据集： https://pan.baidu.com/s/1oeeO38RiWldEpAJ3RcImyw?pwd=9qpy
+## 详细数据集： https://pan.baidu.com/s/1oeeO38RiWldEpAJ3RcImyw?pwd=9qpy
 
 
 
